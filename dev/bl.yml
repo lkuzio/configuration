@@ -1,0 +1,3 @@
+somecustom:
+  property1: GitProperties
+  isProdEnv: false
